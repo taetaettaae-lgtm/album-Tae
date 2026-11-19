@@ -1,1 +1,12 @@
-{"name":"album-server","version":"1.0.0","description":"คลังอัลบั้มรูป — เซิร์ฟเวอร์ Node.js ตัวเดียว เว็บ+ฐานข้อมูลอยู่เดียวกัน","main":"server.js","scripts":{"start":"node server.js"},"engines":{"node":">=14"}}
+{
+  "name": "album-server",
+  "version": "1.0.0",
+  "description": "ระบบอัลบั้มรูปภาพ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
